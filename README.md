@@ -7,3 +7,4 @@ App Status -
               
 Note : when the app connect to the internet, It will delete all the previous data.
       
+I’m actively looking forward to discuss various options.
